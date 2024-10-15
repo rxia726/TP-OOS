@@ -6,8 +6,6 @@ Lab 1 is a simple car rental application. It allows you to view, rent, and cance
 **TP-OOS\Grpc-Client\src\main\java\org\example\MainClient.java**  
 ![image](https://github.com/user-attachments/assets/f1499794-887e-483e-ad86-78701110fefa)
 
-_The image format above is shrunk for better readability._
-
 # Lab 2 - Car Service Application
 
 ## Key Documents Catalogue:
@@ -21,4 +19,5 @@ _Log in to view the database with the username: `rx` and password: `password`._
 To clean and build the project, use the following command:  
 **`./gradlew clean build`**
 
+Set up a proto public file:
 ![image](https://github.com/user-attachments/assets/1499bf00-63ac-427a-bb51-5451dcd0bd7b)
