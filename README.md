@@ -35,3 +35,7 @@ To clean and build the project, use the following command in the terminal:
 
 ```bash
 ./gradlew clean build
+
+Proto File Setup:
+Ensure the proto file is set up correctly for public use. Here’s an example of the file structure:
+![image](https://github.com/user-attachments/assets/50287f19-dbf1-4da3-a49e-14cdea26aa80)
