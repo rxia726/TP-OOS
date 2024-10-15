@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package com.example.demo.grpc;
+
+option java_multiple_files = true;
+option java_package = "com.example.demo.grpc";
+option java_outer_classname = "CarServiceProto";
+
+service CarService {
+  // Define the RPC methods here
+  rpc GetCarByPlateNumber (CarRequest) returns (CarResponse);
+  rpc ListCars (EmptyRequest) returns (CarListResponse);
+}
+
+// Request and response messages
+message CarRequest {
+  string plateNumber = 1;
+}
+
+message CarResponse {
+  string plateNumber = 1;
+  string brand = 2;
+  int32 price = 3;
+  bool isRented = 4;
+}
+
+message EmptyRequest {}
+
+message CarListResponse {
+  string response=1;
+}
