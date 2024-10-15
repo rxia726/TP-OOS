@@ -1,19 +1,10 @@
 # Lab 1 - Car Rental Application
 
-## Overview
-This project is a simple Car Rental Application. It allows you to view, rent, and unrent cars through HTTP requests.
+Lab1 is a simple car rental application. It allows you to view, rent and cancel rental cars via HTTP requests.
 
-## Getting Started
+# Lab 2 - Car Service Application
 
-### 1. Launch the Application
-Run the `OoLab1Application` located in the following directory: `src/java/com/example/oolab1`.
+Log in to view the database with the username: rx and password: password
+![image](https://github.com/user-attachments/assets/cc370156-cd2f-44fb-a1b7-f6150ded0a9e)
+![image](https://github.com/user-attachments/assets/78b28b18-e31b-4a4d-8d88-9016d8fb112a)
 
-### 2. Access the Web Interface
-Once the application is running, open your web browser and go to: [http://localhost:8080](http://localhost:8080)
-
-You will be greeted by a welcome message.
-
-## API Endpoints
-
-### 1. Get All Cars
-To view all the available cars, make a GET request to the following endpoint: 
