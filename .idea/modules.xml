@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common.iml" filepath="$PROJECT_DIR$/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grpc-Client.iml" filepath="$PROJECT_DIR$/Grpc-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Client.Common.iml" filepath="$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Client.Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Client.Common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Client.Common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Client.Common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Client.Common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grpc-Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Grpc-Client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grpc-Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Grpc-Client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grpc-Service.iml" filepath="$PROJECT_DIR$/Grpc-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Service.Common.iml" filepath="$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Service.Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Service.Common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Service.Common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Service.Common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1133310862/Grpc-Service.Common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grpc-Service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Grpc-Service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grpc-Service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Grpc-Service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP-OOS.iml" filepath="$PROJECT_DIR$/TP-OOS.iml" />
+    </modules>
+  </component>
+</project>

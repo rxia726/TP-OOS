@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Common" target="20" />
+      <module name="Common.main" target="20" />
+      <module name="Common.test" target="20" />
+      <module name="Grpc-Client" target="20" />
+      <module name="Grpc-Client.Common" target="20" />
+      <module name="Grpc-Client.Common.main" target="20" />
+      <module name="Grpc-Client.Common.test" target="20" />
+      <module name="Grpc-Client.main" target="20" />
+      <module name="Grpc-Client.test" target="20" />
+      <module name="Grpc-Service" target="20" />
+      <module name="Grpc-Service.Common" target="20" />
+      <module name="Grpc-Service.Common.main" target="20" />
+      <module name="Grpc-Service.Common.test" target="20" />
+      <module name="Grpc-Service.main" target="20" />
+      <module name="Grpc-Service.test" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
