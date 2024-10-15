@@ -33,6 +33,9 @@ dependencies {
     // Protobuf dependencies
     implementation 'com.google.protobuf:protobuf-java:3.21.7'
 
+    // Version 3.1.5 is being used to ensure compatibility with the current Java version and Gradle setup
+    implementation 'com.github.ben-manes.caffeine:caffeine:3.1.5'
+
     // gRPC client for testing
     implementation 'net.devh:grpc-client-spring-boot-starter:2.14.0.RELEASE'
 
